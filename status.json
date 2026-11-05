@@ -1,16 +1,49 @@
 {
-  "bijgewerkt_utc": "2026-11-05 16:02",
+  "bijgewerkt_utc": "2026-11-05 17:02",
   "modus": "papier",
   "ronde_ok": true,
   "fout": null,
-  "laatste_candle_utc": "2026-11-05 15:00",
+  "laatste_candle_utc": "2026-11-05 16:00",
   "pot": 10000.0,
   "pot_incl_open": 10000.0,
   "top": 10000.0,
   "noodrem": false,
   "short_rem_coins": [],
   "short_laatste": {},
-  "posities": {},
+  "posities": {
+    "BTC": {
+      "side": "short",
+      "entry": 76315.0,
+      "stop": 80130.75,
+      "tp": 74788.7,
+      "added": null,
+      "sinds": "2026-11-05 16:00"
+    },
+    "ETH": {
+      "side": "short",
+      "entry": 2263.3,
+      "stop": 2376.465,
+      "tp": 2218.034,
+      "added": null,
+      "sinds": "2026-11-05 16:00"
+    },
+    "SOL": {
+      "side": "short",
+      "entry": 90.24,
+      "stop": 94.752,
+      "tp": 88.4352,
+      "added": null,
+      "sinds": "2026-11-05 16:00"
+    },
+    "ADA": {
+      "side": "short",
+      "entry": 0.18269,
+      "stop": 0.1918245,
+      "tp": 0.17903619999999998,
+      "added": null,
+      "sinds": "2026-11-05 16:00"
+    }
+  },
   "beurs_posities": null,
   "stops_op_beurs_ok": null,
   "instellingen": {
@@ -36,5 +69,7 @@
     "short_brake_wr": 70.0,
     "demo_from": ""
   },
-  "recente_waarschuwingen": []
+  "recente_waarschuwingen": [
+    "2026-11-05 16:02:20,978 WARNING Rapport-push mislukt: git@github.com: Permission denied (publickey)."
+  ]
 }
