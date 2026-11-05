@@ -1,29 +1,23 @@
 {
-  "bijgewerkt_utc": "2026-11-05 21:02",
+  "bijgewerkt_utc": "2026-11-05 22:02",
   "modus": "papier",
   "ronde_ok": true,
   "fout": null,
-  "laatste_candle_utc": "2026-11-05 20:00",
-  "pot": 10000.0,
-  "pot_incl_open": 10000.0,
-  "top": 10000.0,
+  "laatste_candle_utc": "2026-11-05 21:00",
+  "pot": 10057.03,
+  "pot_incl_open": 10057.03,
+  "top": 10057.03,
   "noodrem": false,
   "short_rem_coins": [],
-  "short_laatste": {},
+  "short_laatste": {
+    "ETH": "1/1"
+  },
   "posities": {
     "BTC": {
       "side": "short",
       "entry": 76315.0,
       "stop": 80130.75,
       "tp": 74788.7,
-      "added": null,
-      "sinds": "2026-11-05 16:00"
-    },
-    "ETH": {
-      "side": "short",
-      "entry": 2263.3,
-      "stop": 2376.465,
-      "tp": 2218.034,
       "added": null,
       "sinds": "2026-11-05 16:00"
     },

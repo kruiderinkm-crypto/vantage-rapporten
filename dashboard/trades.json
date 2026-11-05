@@ -1,1 +1,1 @@
-[{"coin": null, "richting": null, "instap_tijd": null, "instap_prijs": null, "uitstap_tijd": null, "uitstap_prijs": null, "reden": null, "resultaat_procent": null, "resultaat_usd": null, "leeg": true}]
+[{"coin": "ETH", "richting": "short", "instap_tijd": "2026-11-05 16:00", "instap_prijs": 2263.3, "uitstap_tijd": "2026-11-05 21:00", "uitstap_prijs": 2218.034, "reden": "winstdoel", "resultaat_procent": 1.901, "resultaat_usd": 57.03, "leeg": false}]
