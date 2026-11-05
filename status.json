@@ -1,0 +1,40 @@
+{
+  "bijgewerkt_utc": "2026-11-05 13:06",
+  "modus": "papier",
+  "ronde_ok": true,
+  "fout": null,
+  "laatste_candle_utc": "2026-11-05 12:00",
+  "pot": 10000.0,
+  "pot_incl_open": 10000.0,
+  "top": 10000.0,
+  "noodrem": false,
+  "short_rem_coins": [],
+  "short_laatste": {},
+  "posities": {},
+  "beurs_posities": null,
+  "stops_op_beurs_ok": null,
+  "instellingen": {
+    "coins": [
+      "BTC",
+      "ETH",
+      "SOL",
+      "ADA",
+      "DOGE",
+      "LINK",
+      "XRP",
+      "NEAR"
+    ],
+    "risk": 0.015,
+    "vmin": 2.5,
+    "vexit": 2.0,
+    "add_on": true,
+    "btc3d_filter": true,
+    "ema_long_filter": true,
+    "death_cross_short": true,
+    "short_max_h": 120,
+    "short_brake_n": 30,
+    "short_brake_wr": 70.0,
+    "demo_from": ""
+  },
+  "recente_waarschuwingen": []
+}
