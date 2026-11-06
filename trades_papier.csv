@@ -1,2 +1,4 @@
 modus,coin,richting,instap_tijd,instap_prijs,uitstap_tijd,uitstap_prijs,reden,resultaat_procent,resultaat_usd
 papier,ETH,short,2026-11-05 16:00 UTC,2263.3,2026-11-05 21:00 UTC,2218.034,winstdoel,1.901,57.03
+papier,SOL,short,2026-11-05 16:00 UTC,90.24,2026-11-05 23:00 UTC,88.4352,winstdoel,1.901,57.03
+papier,ADA,short,2026-11-05 16:00 UTC,0.18269,2026-11-05 23:00 UTC,0.17903619999999998,winstdoel,1.901,19.01
