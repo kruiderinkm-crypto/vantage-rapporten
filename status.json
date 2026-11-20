@@ -1,9 +1,9 @@
 {
-  "bijgewerkt_utc": "2026-11-20 04:02",
+  "bijgewerkt_utc": "2026-11-20 05:02",
   "modus": "papier",
   "ronde_ok": true,
   "fout": null,
-  "laatste_candle_utc": "2026-11-20 03:00",
+  "laatste_candle_utc": "2026-11-20 04:00",
   "pot": 10306.66,
   "pot_incl_open": 10306.66,
   "top": 10306.66,
@@ -16,7 +16,16 @@
     "BTC": "1/1",
     "DOGE": "1/1"
   },
-  "posities": {},
+  "posities": {
+    "NEAR": {
+      "side": "short",
+      "entry": 3.0079,
+      "stop": 3.158295,
+      "tp": 2.947742,
+      "added": null,
+      "sinds": "2026-11-20 04:00"
+    }
+  },
   "beurs_posities": null,
   "stops_op_beurs_ok": null,
   "instellingen": {
