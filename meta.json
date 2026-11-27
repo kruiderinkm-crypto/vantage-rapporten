@@ -1,0 +1,110 @@
+{
+ "gemaakt_utc": "2026-11-27T18:59:59.818Z",
+ "data_einde_utc": "2026-11-27T18:00:00.000Z",
+ "CUT": 1795802400000,
+ "tools_commit": "5120d2a",
+ "pauze_uitbraak": {
+  "totaal": 87,
+  "naCutoff": 0
+ },
+ "stats": {
+  "BTC": {
+   "kandidaatShorts": 133,
+   "poortWaar": 64,
+   "r2Intervallen": 11,
+   "xs": 14,
+   "pf": 136,
+   "tekens": {
+    "G": 192,
+    "R": 66,
+    "X": 98,
+    "P": 1768,
+    "D": 24
+   }
+  },
+  "ETH": {
+   "kandidaatShorts": 146,
+   "poortWaar": 54,
+   "r2Intervallen": 12,
+   "xs": 21,
+   "pf": 150,
+   "tekens": {
+    "G": 162,
+    "R": 72,
+    "X": 147,
+    "P": 1950,
+    "D": 27
+   }
+  },
+  "SOL": {
+   "kandidaatShorts": 140,
+   "poortWaar": 30,
+   "r2Intervallen": 16,
+   "xs": 31,
+   "pf": 149,
+   "tekens": {
+    "G": 90,
+    "R": 96,
+    "X": 217,
+    "P": 1937,
+    "D": 21
+   }
+  },
+  "NEAR": {
+   "kandidaatShorts": 139,
+   "poortWaar": 34,
+   "r2Intervallen": 16,
+   "xs": 3,
+   "pf": 127,
+   "tekens": {
+    "G": 102,
+    "R": 96,
+    "X": 21,
+    "P": 1651,
+    "D": 0
+   }
+  },
+  "ADA": {
+   "kandidaatShorts": 151,
+   "poortWaar": 58,
+   "r2Intervallen": 14,
+   "xs": 2,
+   "pf": 129,
+   "tekens": {
+    "G": 174,
+    "R": 84,
+    "X": 14,
+    "P": 1677,
+    "D": 0
+   }
+  },
+  "DOGE": {
+   "kandidaatShorts": 156,
+   "poortWaar": 53,
+   "r2Intervallen": 15,
+   "xs": 4,
+   "pf": 130,
+   "tekens": {
+    "G": 159,
+    "R": 90,
+    "X": 28,
+    "P": 1690,
+    "D": 0
+   }
+  },
+  "LINK": {
+   "kandidaatShorts": 149,
+   "poortWaar": 62,
+   "r2Intervallen": 16,
+   "xs": 12,
+   "pf": 131,
+   "tekens": {
+    "G": 186,
+    "R": 96,
+    "X": 84,
+    "P": 1703,
+    "D": 0
+   }
+  }
+ }
+}
